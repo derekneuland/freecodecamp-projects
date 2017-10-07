@@ -93,7 +93,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #212529;
-  background-color: #a1a4a8;
+  background-color: #fff;
   padding: 10px 10px 10px 10px;
 }
 
@@ -8182,5 +8182,9 @@ a.text-dark:focus, a.text-dark:hover {
 
 .invisible {
   visibility: hidden !important;
+}
+
+#main-content {
+  background-color: #808080;
 }
 /*# sourceMappingURL=bootstrap.css.map */
