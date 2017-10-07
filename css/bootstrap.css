@@ -4,6 +4,7 @@
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
 @media print {
   *,
   *::before,
@@ -96,6 +97,11 @@ body {
   background-color: #fff;
   padding: 10px 10px 10px 10px;
 }
+.main-content {
+  background-color: #eeeeee;
+  padding: 10px 10px 10px 10px;
+}
+
 
 [tabindex="-1"]:focus {
   outline: none !important;
@@ -8182,9 +8188,5 @@ a.text-dark:focus, a.text-dark:hover {
 
 .invisible {
   visibility: hidden !important;
-}
-
-#main-content {
-  background-color: #808080;
 }
 /*# sourceMappingURL=bootstrap.css.map */
