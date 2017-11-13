@@ -8189,4 +8189,13 @@ a.text-dark:focus, a.text-dark:hover {
 .invisible {
   visibility: hidden !important;
 }
+
+.self-portrait {
+	height: 525px ;
+	width: 525px ;
+	display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px ;
+}
 /*# sourceMappingURL=bootstrap.css.map */
